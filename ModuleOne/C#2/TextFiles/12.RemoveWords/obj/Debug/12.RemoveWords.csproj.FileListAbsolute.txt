@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

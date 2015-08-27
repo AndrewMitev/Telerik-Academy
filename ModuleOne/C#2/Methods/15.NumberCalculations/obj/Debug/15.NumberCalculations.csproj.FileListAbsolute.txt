@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.pdb

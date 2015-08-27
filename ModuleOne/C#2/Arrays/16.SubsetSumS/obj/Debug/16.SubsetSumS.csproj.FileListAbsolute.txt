@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\16.SubsetSumS\bin\Debug\16.SubsetSumS.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\16.SubsetSumS\bin\Debug\16.SubsetSumS.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\16.SubsetSumS\bin\Debug\16.SubsetSumS.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\16.SubsetSumS\obj\Debug\16.SubsetSumS.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\16.SubsetSumS\obj\Debug\16.SubsetSumS.pdb

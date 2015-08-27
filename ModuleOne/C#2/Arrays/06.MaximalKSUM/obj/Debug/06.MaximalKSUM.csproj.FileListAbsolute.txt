@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\06.MaximalKSUM\bin\Debug\06.MaximalKSUM.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\06.MaximalKSUM\bin\Debug\06.MaximalKSUM.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\06.MaximalKSUM\bin\Debug\06.MaximalKSUM.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\06.MaximalKSUM\obj\Debug\06.MaximalKSUM.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\06.MaximalKSUM\obj\Debug\06.MaximalKSUM.pdb

@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumberSequence\bin\Debug\08.NumberSequence.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumberSequence\bin\Debug\08.NumberSequence.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumberSequence\bin\Debug\08.NumberSequence.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumberSequence\obj\Debug\08.NumberSequence.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\08.NumberSequence\obj\Debug\08.NumberSequence.pdb

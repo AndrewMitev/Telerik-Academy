@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\MyNameExposure\bin\Debug\MyNameExposure.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\MyNameExposure\bin\Debug\MyNameExposure.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\MyNameExposure\bin\Debug\MyNameExposure.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\MyNameExposure\obj\Debug\MyNameExposure.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\MyNameExposure\obj\Debug\MyNameExposure.pdb

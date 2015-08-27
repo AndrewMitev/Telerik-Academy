@@ -1,0 +1,2 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\DefiningClassesPartTwo\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\DefiningClassesPartTwo\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache

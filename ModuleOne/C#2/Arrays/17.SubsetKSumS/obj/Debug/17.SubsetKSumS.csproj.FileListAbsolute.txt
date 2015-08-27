@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\17.SubsetKSumS\bin\Debug\17.SubsetKSumS.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\17.SubsetKSumS\bin\Debug\17.SubsetKSumS.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\17.SubsetKSumS\bin\Debug\17.SubsetKSumS.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\17.SubsetKSumS\obj\Debug\17.SubsetKSumS.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\17.SubsetKSumS\obj\Debug\17.SubsetKSumS.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\17.SubsetKSumS\obj\Debug\17.SubsetKSumS.pdb

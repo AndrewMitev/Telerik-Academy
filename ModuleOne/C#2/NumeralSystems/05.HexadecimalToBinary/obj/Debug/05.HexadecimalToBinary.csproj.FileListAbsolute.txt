@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb

@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\06.The BiggestOfFive\bin\Debug\06.The BiggestOfFive.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\06.The BiggestOfFive\bin\Debug\06.The BiggestOfFive.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\06.The BiggestOfFive\bin\Debug\06.The BiggestOfFive.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\06.The BiggestOfFive\obj\Debug\06.The BiggestOfFive.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\06.The BiggestOfFive\obj\Debug\06.The BiggestOfFive.pdb

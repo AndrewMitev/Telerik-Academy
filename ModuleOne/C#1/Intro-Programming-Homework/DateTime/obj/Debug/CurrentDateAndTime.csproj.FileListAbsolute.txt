@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DateTime\bin\Debug\DateTime.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DateTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DateTime\obj\Debug\DateTime.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DateTime\obj\Debug\DateTime.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\9GAGNUMBERS\bin\Debug\9GAGNUMBERS.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\9GAGNUMBERS\bin\Debug\9GAGNUMBERS.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\9GAGNUMBERS\bin\Debug\9GAGNUMBERS.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\9GAGNUMBERS\obj\Debug\9GAGNUMBERS.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\9GAGNUMBERS\obj\Debug\9GAGNUMBERS.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\9GAGNUMBERS\obj\Debug\9GAGNUMBERS.pdb

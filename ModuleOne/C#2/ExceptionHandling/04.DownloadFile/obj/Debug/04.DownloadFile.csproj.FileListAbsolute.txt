@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

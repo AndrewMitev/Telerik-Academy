@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\Products\bin\Debug\Products.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\Products\bin\Debug\Products.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\Products\bin\Debug\Products.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\Products\obj\Debug\Products.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\Products\obj\Debug\Products.pdb

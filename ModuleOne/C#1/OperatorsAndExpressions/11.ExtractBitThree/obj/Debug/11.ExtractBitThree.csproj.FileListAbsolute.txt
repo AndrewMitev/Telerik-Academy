@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\11.ExtractBitThree\bin\Debug\11.ExtractBitThree.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\11.ExtractBitThree\bin\Debug\11.ExtractBitThree.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\11.ExtractBitThree\bin\Debug\11.ExtractBitThree.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\11.ExtractBitThree\obj\Debug\11.ExtractBitThree.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\11.ExtractBitThree\obj\Debug\11.ExtractBitThree.pdb

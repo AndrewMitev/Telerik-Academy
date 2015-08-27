@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\MultiDimensionalArrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\MultiDimensionalArrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\MultiDimensionalArrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\MultiDimensionalArrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\MultiDimensionalArrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.pdb

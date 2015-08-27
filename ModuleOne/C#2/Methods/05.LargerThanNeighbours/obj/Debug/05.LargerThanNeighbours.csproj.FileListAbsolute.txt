@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.pdb

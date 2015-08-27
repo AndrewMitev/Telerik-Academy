@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb

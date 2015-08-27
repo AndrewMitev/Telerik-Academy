@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersInterval\bin\Debug\11.NumbersInterval.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersInterval\bin\Debug\11.NumbersInterval.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersInterval\bin\Debug\11.NumbersInterval.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersInterval\obj\Debug\11.NumbersInterval.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersInterval\obj\Debug\11.NumbersInterval.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersInterval\obj\Debug\11.NumbersInterval.pdb

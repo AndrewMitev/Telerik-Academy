@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\16.BiExchnageTwo\bin\Debug\16.BiExchnageTwo.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\16.BiExchnageTwo\bin\Debug\16.BiExchnageTwo.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\16.BiExchnageTwo\bin\Debug\16.BiExchnageTwo.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\16.BiExchnageTwo\obj\Debug\16.BiExchnageTwo.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\16.BiExchnageTwo\obj\Debug\16.BiExchnageTwo.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\16.BiExchnageTwo\obj\Debug\16.BiExchnageTwo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\13.CountWords\bin\Debug\13.CountWords.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\13.CountWords\obj\Debug\13.CountWords.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\13.CountWords\obj\Debug\13.CountWords.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\13.CountWords\obj\Debug\13.CountWords.pdb

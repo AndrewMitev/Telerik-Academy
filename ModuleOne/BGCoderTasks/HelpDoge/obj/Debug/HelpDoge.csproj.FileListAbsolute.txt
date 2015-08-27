@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\HelpDoge\bin\Debug\HelpDoge.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\HelpDoge\bin\Debug\HelpDoge.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\HelpDoge\bin\Debug\HelpDoge.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\HelpDoge\obj\Debug\HelpDoge.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\HelpDoge\obj\Debug\HelpDoge.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\HelpDoge\obj\Debug\HelpDoge.csprojResolveAssemblyReference.cache

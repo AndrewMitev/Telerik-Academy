@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\bin\Debug\03.ReadFileContents.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\obj\Debug\03.ReadFileContents.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\obj\Debug\03.ReadFileContents.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\obj\Debug\03.ReadFileContents.pdb

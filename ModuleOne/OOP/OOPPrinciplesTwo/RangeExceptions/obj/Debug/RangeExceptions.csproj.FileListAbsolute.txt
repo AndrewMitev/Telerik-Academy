@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\RangeExceptions\bin\Debug\RangeExceptions.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\RangeExceptions\bin\Debug\RangeExceptions.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\RangeExceptions\obj\Debug\RangeExceptions.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\RangeExceptions\obj\Debug\RangeExceptions.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\RangeExceptions\obj\Debug\RangeExceptions.pdb

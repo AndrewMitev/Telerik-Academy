@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\MultiDimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\MultiDimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\MultiDimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\MultiDimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\MultiDimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\MultiDimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.pdb

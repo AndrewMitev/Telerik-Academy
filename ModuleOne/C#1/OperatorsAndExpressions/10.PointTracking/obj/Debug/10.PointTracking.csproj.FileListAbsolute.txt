@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointTracking\bin\Debug\10.PointTracking.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointTracking\bin\Debug\10.PointTracking.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointTracking\bin\Debug\10.PointTracking.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointTracking\obj\Debug\10.PointTracking.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointTracking\obj\Debug\10.PointTracking.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointTracking\obj\Debug\10.PointTracking.pdb

@@ -1,0 +1,186 @@
+#outer {
+    position: relative;
+    background-color: rgb(194, 223, 251);
+    width: 450px;
+    height: 450px;
+}
+
+#inner {
+    position: absolute;
+
+    width: 430px;
+    height: 405px;
+
+    border: 1px solid grey;
+
+    left: 8px;
+    bottom: 10px;
+
+    background-color: rgb(217, 228, 241);
+}
+
+#temp > img {
+    position: absolute;
+    left: 10px;
+    top: 8px;
+}
+
+#temp > span {
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+
+img#win-pane {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 110px;
+    height: 20px;
+}
+
+img:first-of-type {
+    width: 13px;
+    height: 18px;
+}
+
+nav > ul {
+    list-style-type: none;
+}
+
+ul {
+    height: 20px;
+    background: -webkit-linear-gradient(white, rgb(218, 224, 241) 90%);
+    border: 1px solid rgb(194, 199, 210);
+    box-shadow: 10px grey;
+    padding-left: 8px;
+    padding-top: 2px;
+    font-size: 13px;
+    font-family: Arial;
+    margin: 0px;
+}
+
+ul > li {
+    float: left;
+    margin-right: 15px;
+}
+
+ul > li:first-of-type {}
+
+fieldset#first {
+    width: 380px;
+    height: 45px;
+
+    margin: 12px;
+
+	text-align: right;
+
+    background: -moz-linear-gradient(rgb(221,232,243), white);  
+    background: -webkit-linear-gradient(rgb(221,232,243), white);  
+    background: -o-linear-gradient(rgb(221,232,243), white);  
+}
+
+fieldset#first span {
+	position: absolute;
+
+	top: 66px;
+	right: 25px;
+
+	font-weight: bold;
+	font-size: 22px;
+}
+
+fieldset#second {
+    width: 400px;
+    height: 75px;
+
+    margin: 12px;
+	padding: 2px;
+	
+}
+
+fieldset#second > table {
+    width: 400px;
+
+    padding: 0px;
+    margin: 0px;
+
+    border-collapse: collapse;
+}
+
+tr {
+	font-family: Consolas;
+	font-size: 14px;
+}
+
+tr:nth-child(1n) {
+	color: rgb(58,109,148);	
+}
+
+tr:nth-child(2n) {
+	color: grey;
+
+	text-align: left;
+}
+
+tr:nth-child(2n) > td:last-child {
+	text-align: center;
+}
+
+#fieldsets {
+	margin-left: 8px;
+
+	font-size: 14px;
+
+	float: left;
+}
+
+#fieldsets fieldset {
+	padding: 0px;
+	margin: 5px;
+
+	width: 75px;
+	height: 85px;
+
+	color: rgb(58,109,148);
+	font-weight: 200;
+}
+
+#operators table {
+	width: 325px;
+	height: 194px;
+}
+
+button {
+	width: 36px;
+	height: 25px;
+	font-size: 12px;
+
+	font-weight: 200;
+}
+
+button.digit {
+	background-color: rgb(244,249,255);
+}
+
+button.gradient {
+	background: -moz-linear-gradient(white, rgb(217,228,241) 90%);
+	background: -o-linear-gradient(white, rgb(217,228,241) 90%);
+	background: -webkit-linear-gradient(white, rgb(217,228,241) 90%);
+}
+
+section#operators table tbody tr td[colspan="2"] button {
+	width: 76px;
+}
+
+section#operators table tbody tr td[rowspan="2"] button {
+	height: 54px;
+}
+
+button.disabled {
+	background-color: inherit;
+
+	border: 1px solid rgb(182,194,209);
+}
+
+

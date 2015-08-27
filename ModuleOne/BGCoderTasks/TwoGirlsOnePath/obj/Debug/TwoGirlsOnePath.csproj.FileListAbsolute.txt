@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.csprojResolveAssemblyReference.cache

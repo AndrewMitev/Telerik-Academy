@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\16.DateDiffrence\bin\Debug\16.DateDiffrence.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\16.DateDiffrence\bin\Debug\16.DateDiffrence.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\16.DateDiffrence\bin\Debug\16.DateDiffrence.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\16.DateDiffrence\obj\Debug\16.DateDiffrence.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\16.DateDiffrence\obj\Debug\16.DateDiffrence.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\16.DateDiffrence\obj\Debug\16.DateDiffrence.pdb

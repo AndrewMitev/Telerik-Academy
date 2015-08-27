@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\04.SubstringInText\bin\Debug\04.SubstringInText.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\04.SubstringInText\bin\Debug\04.SubstringInText.exe
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\04.SubstringInText\bin\Debug\04.SubstringInText.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\04.SubstringInText\obj\Debug\04.SubstringInText.exe
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\04.SubstringInText\obj\Debug\04.SubstringInText.pdb

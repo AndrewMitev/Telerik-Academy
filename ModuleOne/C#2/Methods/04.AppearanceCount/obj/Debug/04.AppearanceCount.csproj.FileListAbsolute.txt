@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb

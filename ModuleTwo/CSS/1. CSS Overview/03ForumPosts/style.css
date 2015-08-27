@@ -1,0 +1,50 @@
+body {
+	background-color: grey;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	color: black;
+}
+
+article > footer > p > a {
+	text-decoration: none;
+	color: black;
+}
+
+body > header > h1:first-of-type {
+	text-align: center;
+}
+
+.current {
+	background-color: rgba(255,255,255, 0.4);
+}
+
+li:last-child {
+	text-decoration: underline;
+}
+
+footer {
+	font-size: 12px;
+}
+
+body > footer:last-child {
+	font-size: 16px;
+	color: black;
+	text-align: center;
+}

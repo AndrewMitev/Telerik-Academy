@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8" />
+	<title>Web Form</title>
+	<style type="text/css">
+		table
+		{
+			width: 600px;
+		}
+		td
+		{
+			text-align: center;
+		}
+		tfoot
+		{
+			background-color: aqua;
+			text-align: center;
+		}
+		button
+		{
+			margin: 5px;
+		}
+		input 
+		{
+			margin: 5px;
+			padding: 2px;
+		}
+	</style>
+</head>
+<body>
+	<form action = "#">
+	<table border = "1" cellspacing="0">
+		<tbody>
+			<tr>
+				<td><strong>Last Name</strong></td>
+				<td><input type = "text" /></td>
+			</tr>
+			<tr>
+				<td><strong>First Name</strong></td>
+				<td><input type = "text" /></td>
+			</tr>
+			<tr>
+				<td><strong>Address</strong></td>
+				<td><textarea></textarea></td>
+			</tr>
+			<tr>
+				<td><strong>City</strong></td>
+				<td><input type = "text" style="width: 60px; float: left" /><span style="float: left;">State</span> <input type = "text" style="width: 40px; float: left;" /></td>
+			</tr>
+			<tr>
+				<td><strong>Zip/Postal Code</strong></td>
+				<td><input type = "text" /></td>
+			</tr>
+			<tr>
+				<td><strong>Country</strong></td>
+				<td>
+					<select>
+						<option selected="selected">Bulgaria</option>
+						<option>Hungary</option>
+						<option>Poland</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td><strong>Phone(country code, area code, number)</strong></td>
+				<td>(+<input type = "text" style = "width:40px;" />)<input type = "text" style = "width:40px;" /><input type = "text" style = "width:40px;" /></td>
+			</tr>
+			<tr>
+				<td><strong>E-mail</strong></td>
+				<td><input type = "email" /></td>
+			</tr>
+			<tr>
+				<td><strong>Birth date</strong></td>
+				<td><input type = "date" /></td>
+			</tr>
+			<tr>
+				<td><strong>Gender</strong></td>
+				<td>
+					<select>
+						<option selected = "selected">Male</option>
+						<option>Female</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td><strong>Starting date</strong></td>
+				<td><input type = "radio" name="name" />Spring 2015 <input type = "radio" name="name" /> Summer 2015</td>
+			</tr>
+			<tr>
+				<td><strong>Comments/Questions</strong></td>
+				<td><textarea></textarea></td>
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="2"><button>Submit</button><button>Clean this form</button></td>
+			</tr>
+		</tfoot>
+	</table>
+	</form>
+</body>
+</html>

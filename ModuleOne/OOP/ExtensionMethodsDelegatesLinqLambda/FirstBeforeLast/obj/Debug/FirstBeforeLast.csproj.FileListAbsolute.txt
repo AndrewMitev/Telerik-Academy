@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\FirstBeforeLast\bin\Debug\FirstBeforeLast.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\FirstBeforeLast\obj\Debug\FirstBeforeLast.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\FirstBeforeLast\obj\Debug\FirstBeforeLast.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\FirstBeforeLast\obj\Debug\FirstBeforeLast.pdb

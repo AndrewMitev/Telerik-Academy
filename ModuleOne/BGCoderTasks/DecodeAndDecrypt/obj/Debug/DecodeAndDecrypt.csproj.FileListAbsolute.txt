@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.pdb

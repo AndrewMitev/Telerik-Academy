@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.pdb

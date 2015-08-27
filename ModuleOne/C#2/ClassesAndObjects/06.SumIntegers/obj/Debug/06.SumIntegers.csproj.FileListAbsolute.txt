@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ClassesAndObjects\06.SumIntegers\bin\Debug\06.SumIntegers.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ClassesAndObjects\06.SumIntegers\bin\Debug\06.SumIntegers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ClassesAndObjects\06.SumIntegers\bin\Debug\06.SumIntegers.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ClassesAndObjects\06.SumIntegers\obj\Debug\06.SumIntegers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ClassesAndObjects\06.SumIntegers\obj\Debug\06.SumIntegers.pdb

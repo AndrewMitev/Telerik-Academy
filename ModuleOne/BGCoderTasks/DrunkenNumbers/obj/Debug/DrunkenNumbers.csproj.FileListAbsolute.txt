@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

@@ -1,0 +1,19 @@
+Potato potato;
+//...
+if (potato != null)
+{
+   if(potato.HasBeenPeeled && potato.IsNotRotten)
+   {
+       Cook(potato);
+   }
+}
+
+//and
+
+bool isInXRange = (x >= MIN_X && x <= MAX_X) ? true : false;
+bool isInYRange = (MAX_Y >= y && MIN_Y <= y) ? true : false;
+
+if (isInXRange && isInYRange && shouldVisitCell)
+{
+   VisitCell();
+}

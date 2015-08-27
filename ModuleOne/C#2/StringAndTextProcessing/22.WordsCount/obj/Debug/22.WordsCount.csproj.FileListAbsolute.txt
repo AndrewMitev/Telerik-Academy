@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.pdb

@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWorld\bin\Debug\08.ReplaceWholeWorld.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWorld\bin\Debug\08.ReplaceWholeWorld.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWorld\bin\Debug\08.ReplaceWholeWorld.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWorld\obj\Debug\08.ReplaceWholeWorld.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWorld\obj\Debug\08.ReplaceWholeWorld.pdb

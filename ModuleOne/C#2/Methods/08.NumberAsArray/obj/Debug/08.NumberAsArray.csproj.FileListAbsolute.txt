@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache

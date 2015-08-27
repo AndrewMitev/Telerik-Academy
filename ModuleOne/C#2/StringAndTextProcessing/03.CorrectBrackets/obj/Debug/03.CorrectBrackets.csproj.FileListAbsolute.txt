@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.exe
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.pdb

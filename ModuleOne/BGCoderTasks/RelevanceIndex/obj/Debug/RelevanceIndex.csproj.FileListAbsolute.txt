@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\RelevanceIndex\bin\Debug\RelevanceIndex.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\RelevanceIndex\bin\Debug\RelevanceIndex.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\RelevanceIndex\bin\Debug\RelevanceIndex.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\RelevanceIndex\obj\Debug\RelevanceIndex.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\RelevanceIndex\obj\Debug\RelevanceIndex.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\RelevanceIndex\obj\Debug\RelevanceIndex.pdb

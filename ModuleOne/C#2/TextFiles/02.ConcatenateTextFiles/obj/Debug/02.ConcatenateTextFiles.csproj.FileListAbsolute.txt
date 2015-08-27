@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb

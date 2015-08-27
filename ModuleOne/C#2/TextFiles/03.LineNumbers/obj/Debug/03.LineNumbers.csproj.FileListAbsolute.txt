@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\03.LineNumbers\bin\Debug\03.LineNumbers.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\03.LineNumbers\bin\Debug\03.LineNumbers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\03.LineNumbers\bin\Debug\03.LineNumbers.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\03.LineNumbers\obj\Debug\03.LineNumbers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TextFiles\03.LineNumbers\obj\Debug\03.LineNumbers.pdb

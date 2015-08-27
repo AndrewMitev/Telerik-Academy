@@ -1,0 +1,8 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

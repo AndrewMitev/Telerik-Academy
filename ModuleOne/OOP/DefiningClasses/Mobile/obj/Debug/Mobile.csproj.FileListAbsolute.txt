@@ -1,0 +1,7 @@
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\Mobile\bin\Debug\Mobile.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\Mobile\obj\Debug\Mobile.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\Mobile\bin\Debug\Mobile.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\Mobile\bin\Debug\Mobile.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\Mobile\obj\Debug\Mobile.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\Mobile\obj\Debug\Mobile.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\bin\Debug\Mobile.exe.config

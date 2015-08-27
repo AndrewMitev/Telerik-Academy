@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DebuggerTesting\bin\Debug\DebuggerTesting.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DebuggerTesting\bin\Debug\DebuggerTesting.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DebuggerTesting\bin\Debug\DebuggerTesting.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DebuggerTesting\obj\Debug\DebuggerTesting.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DebuggerTesting\obj\Debug\DebuggerTesting.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\DebuggerTesting\obj\Debug\DebuggerTesting.pdb

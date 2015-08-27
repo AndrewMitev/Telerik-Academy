@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortedNumbers\bin\Debug\07.SortedNumbers.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortedNumbers\bin\Debug\07.SortedNumbers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortedNumbers\bin\Debug\07.SortedNumbers.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortedNumbers\obj\Debug\07.SortedNumbers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\07.SortedNumbers\obj\Debug\07.SortedNumbers.pdb

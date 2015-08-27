@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.pdb

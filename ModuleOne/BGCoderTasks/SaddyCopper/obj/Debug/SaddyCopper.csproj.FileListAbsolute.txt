@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\SaddyCopper\bin\Debug\SaddyCopper.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\SaddyCopper\bin\Debug\SaddyCopper.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\SaddyCopper\bin\Debug\SaddyCopper.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\SaddyCopper\obj\Debug\SaddyCopper.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\SaddyCopper\obj\Debug\SaddyCopper.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\SaddyCopper\obj\Debug\SaddyCopper.pdb

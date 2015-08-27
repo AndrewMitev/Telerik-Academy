@@ -1,0 +1,7 @@
+beautiful => 8 times.
+shoes => 5 times.
+hard => 3 times.
+miles => 2 times.
+eyes => 2 times.
+bruises => 1 times.
+pain => 1 times.

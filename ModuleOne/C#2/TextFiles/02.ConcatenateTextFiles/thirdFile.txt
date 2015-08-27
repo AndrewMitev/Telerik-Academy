@@ -1,0 +1,6 @@
+content
+This is second file data sample.
+Behaviour undefined.
+First File is here.
+Nananana
+Lalalala.

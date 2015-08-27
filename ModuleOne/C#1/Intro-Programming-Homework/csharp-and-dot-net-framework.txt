@@ -1,0 +1,3 @@
+.NET is a term that includes .NET Framework (application framework library) and Common Language Runtime in which .NET assemblies are run.
+
+C# sharp is a programming language, that uses .NET Framework.

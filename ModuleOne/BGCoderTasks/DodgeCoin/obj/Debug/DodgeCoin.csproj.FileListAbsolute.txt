@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DodgeCoin\bin\Debug\DodgeCoin.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DodgeCoin\bin\Debug\DodgeCoin.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DodgeCoin\bin\Debug\DodgeCoin.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DodgeCoin\obj\Debug\DodgeCoin.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DodgeCoin\obj\Debug\DodgeCoin.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\DodgeCoin\obj\Debug\DodgeCoin.pdb

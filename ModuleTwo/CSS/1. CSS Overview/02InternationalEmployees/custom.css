@@ -1,0 +1,43 @@
+body {
+	font-family: Arial;
+	text-align: left;
+}
+
+table {
+	width: 700px;
+	border: 0px;
+	border-collapse: none;
+	border-spacing: 0px;
+}
+
+thead {
+	background-color: green;
+	color: white;
+
+}
+
+td:first-of-type {
+	border-left: 0px;
+}
+
+tr:nth-child(2n) {
+	background-color: #D7D7D7;
+}
+tr, td, th, span {
+	border-left: 1px solid grey;
+	margin: 20px;
+	padding: 5px;
+}
+
+.flagDe:before {
+	content: url(flags/gm.jpg);
+}
+
+.flagMx:before {
+	content: url("flags/mx.jpg");
+}
+
+.flagGb:before {
+	content: url("flags/uk.jpg");
+}
+

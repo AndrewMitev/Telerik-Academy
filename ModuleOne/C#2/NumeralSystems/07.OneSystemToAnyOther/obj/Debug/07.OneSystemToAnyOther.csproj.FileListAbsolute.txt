@@ -1,0 +1,9 @@
+c:\users\andrei\documents\visual studio 2013\Projects\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe
+c:\users\andrei\documents\visual studio 2013\Projects\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+c:\users\andrei\documents\visual studio 2013\Projects\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb

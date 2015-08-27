@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\Timer\bin\Debug\Timer.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\Timer\bin\Debug\Timer.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\Timer\bin\Debug\Timer.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\Timer\obj\Debug\Timer.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\Timer\obj\Debug\Timer.pdb

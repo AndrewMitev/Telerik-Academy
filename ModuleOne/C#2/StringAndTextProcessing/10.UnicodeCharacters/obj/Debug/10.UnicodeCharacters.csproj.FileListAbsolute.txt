@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache

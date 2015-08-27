@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\25.ExtractTextFromHtml\bin\Debug\25.ExtractTextFromHtml.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\25.ExtractTextFromHtml\bin\Debug\25.ExtractTextFromHtml.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\25.ExtractTextFromHtml\bin\Debug\25.ExtractTextFromHtml.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\25.ExtractTextFromHtml\obj\Debug\25.ExtractTextFromHtml.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\25.ExtractTextFromHtml\obj\Debug\25.ExtractTextFromHtml.pdb

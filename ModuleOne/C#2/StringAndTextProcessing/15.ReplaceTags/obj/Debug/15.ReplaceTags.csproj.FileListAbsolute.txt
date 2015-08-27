@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

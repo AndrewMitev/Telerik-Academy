@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\Shapes\bin\Debug\Shapes.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\Shapes\bin\Debug\Shapes.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\Shapes\bin\Debug\Shapes.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\Shapes\obj\Debug\Shapes.exe
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\OOPPrinciplesTwo\Shapes\obj\Debug\Shapes.pdb

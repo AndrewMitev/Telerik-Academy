@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\o4.NumberComparer\bin\Debug\o4.NumberComparer.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\o4.NumberComparer\bin\Debug\o4.NumberComparer.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\o4.NumberComparer\bin\Debug\o4.NumberComparer.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\o4.NumberComparer\obj\Debug\o4.NumberComparer.exe
+c:\users\andrei\documents\visual studio 2013\Projects\ConsoleInputOutput\o4.NumberComparer\obj\Debug\o4.NumberComparer.pdb

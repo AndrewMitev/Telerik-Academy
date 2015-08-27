@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\Arrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\BinarySearch\obj\Debug\BinarySearch.pdb

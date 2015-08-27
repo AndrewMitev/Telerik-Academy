@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

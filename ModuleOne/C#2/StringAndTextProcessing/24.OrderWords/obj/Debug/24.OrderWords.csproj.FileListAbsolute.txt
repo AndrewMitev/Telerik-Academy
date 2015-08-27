@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.pdb

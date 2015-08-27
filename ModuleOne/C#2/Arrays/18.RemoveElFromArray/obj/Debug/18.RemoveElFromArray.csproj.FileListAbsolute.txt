@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\18.RemoveElFromArray\bin\Debug\18.RemoveElFromArray.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\18.RemoveElFromArray\bin\Debug\18.RemoveElFromArray.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\18.RemoveElFromArray\bin\Debug\18.RemoveElFromArray.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\18.RemoveElFromArray\obj\Debug\18.RemoveElFromArray.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\18.RemoveElFromArray\obj\Debug\18.RemoveElFromArray.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Arrays\18.RemoveElFromArray\obj\Debug\18.RemoveElFromArray.pdb

@@ -1,0 +1,9 @@
+c:\users\andrei\documents\visual studio 2013\Projects\Methods\01.SayHello\bin\Debug\01.SayHello.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\Methods\01.SayHello\bin\Debug\01.SayHello.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Methods\01.SayHello\bin\Debug\01.SayHello.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\Methods\01.SayHello\obj\Debug\01.SayHello.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\Methods\01.SayHello\obj\Debug\01.SayHello.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Methods\01.SayHello\obj\Debug\01.SayHello.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TelerikArchive\C#2\Methods\01.SayHello\bin\Debug\01.SayHello.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TelerikArchive\C#2\Methods\01.SayHello\obj\Debug\01.SayHello.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\TelerikArchive\C#2\Methods\01.SayHello\obj\Debug\01.SayHello.pdb

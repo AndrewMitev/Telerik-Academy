@@ -1,0 +1,5 @@
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\05.MaximalSequenceIncreasing\bin\Debug\05.MaximalSequenceIncreasing.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\05.MaximalSequenceIncreasing\bin\Debug\05.MaximalSequenceIncreasing.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\05.MaximalSequenceIncreasing\bin\Debug\05.MaximalSequenceIncreasing.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\05.MaximalSequenceIncreasing\obj\Debug\05.MaximalSequenceIncreasing.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Arrays\05.MaximalSequenceIncreasing\obj\Debug\05.MaximalSequenceIncreasing.pdb

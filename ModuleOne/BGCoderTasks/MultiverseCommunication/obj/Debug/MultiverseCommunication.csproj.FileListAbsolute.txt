@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\MultiverseCommunication\bin\Debug\MultiverseCommunication.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\MultiverseCommunication\obj\Debug\MultiverseCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\BGCoder\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb

@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.exe
+c:\users\andrei\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Hello-World\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\andrei\documents\visual studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\bin\Debug\CallHistoryTest.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\obj\Debug\CallHistoryTest.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\bin\Debug\CallHistoryTest.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\bin\Debug\CallHistoryTest.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\bin\Debug\Mobile.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\bin\Debug\Mobile.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\obj\Debug\CallHistoryTest.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\DefiningClasses\CallHistoryTest\obj\Debug\CallHistoryTest.pdb

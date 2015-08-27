@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCII\bin\Debug\14.ASCII.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCII\bin\Debug\14.ASCII.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCII\bin\Debug\14.ASCII.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCII\obj\Debug\14.ASCII.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCII\obj\Debug\14.ASCII.pdb

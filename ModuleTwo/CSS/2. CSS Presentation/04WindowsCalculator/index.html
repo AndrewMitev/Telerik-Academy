@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="style.css" />
+	<title>Calculator</title>
+</head>
+<body>
+	<div id = "outer">
+		<div id = "temp">
+			<img src = "images/calc.jpg" alt = "Sorry, no image." />
+			<span>Calculator</span>
+		</div>
+		<img id = "win-pane" src = "images/win.png" alt = "No image." />
+
+		<div id = "inner">
+
+			<nav>
+				<ul>
+					<li><u>V</u>iew</li>
+					<li><u>E</u>dit</li>
+					<li><u>H</u>elp</li>
+				</ul>
+			</nav>
+
+ 			<fieldset id = "first">
+				<span>8854455</span>
+			</fieldset>
+
+			<fieldset id = "second">
+				<table>
+					<tr>
+						<td>0000</td>
+						<td>0000</td>
+						<td>0000</td>
+						<td>0000</td>
+						<td>0000</td>
+						<td>0000</td>
+						<td>0000</td>
+						<td>0000</td>
+					</tr>
+					<tr>
+						<td colspan="4">63</td>
+						<td colspan="3">47</td>
+						<td>32</td>
+					</tr>
+					<tr>
+						<td>0000</td>
+						<td>0000</td>
+						<td>1000</td>
+						<td>0111</td>
+						<td>0001</td>
+						<td>1011</td>
+						<td>1011</td>
+						<td>0111</td>
+					</tr>
+					<tr>
+						<td colspan="4">31</td>
+						<td colspan = "3">15</td>
+						<td>0</td>
+					</tr>
+				</table>
+			</fieldset>
+			
+			<section>
+				<div id = "fieldsets">
+
+						<article>
+							<fieldset>
+								<input type="radio"  name = "radio" />Hex<br />
+								<input type="radio" checked = "checked"  name = "radio" />Dec<br />
+								<input type="radio"  name = "radio" />Oct<br />
+								<input type="radio"  name = "radio" />Bin<br />
+							</fieldset>
+						</article>	
+
+			            <article>
+		                    <!--Word Size-->
+		                    <fieldset>
+		                        <input type="radio" name="wordSize" value="qword" checked="checked" />Qword<br />
+		                        <input type="radio" name="wordSize" value="dword" />Dword<br />
+		                        <input type="radio" name="wordSize" value="word" />Word<br />
+		                        <input type="radio" name="wordSize" value="byte" />Byte
+		                    </fieldset>
+		                </article>	
+				</div>
+			</section>
+
+			<section id = "operators">
+				<table>
+					<tr>
+						<td><button class = "disabled"></button></td>
+						<td><button class = "gradient">Mod</button></td>
+						<td><button class = "disabled">A</button></td>
+						<td><button class = "disabled">MC</button></td>
+						<td><button class = "disabled">MR</button></td>
+						<td><button class = "disabled">MS</button></td>
+						<td><button class = "disabled">M+</button></td>
+						<td><button class = "disabled">M-</button></td>
+					</tr>
+					<tr>
+						<td><button class = "gradient">(</button></td>
+						<td><button class = "gradient">)</button></td>
+						<td><button class = "disabled">B</button></td>
+						<td><button class = "gradient">←</button></td>
+						<td><button class = "gradient">CE</button></td>
+						<td><button class = "gradient">C</button></td>
+						<td><button class = "gradient">±</button></td>
+						<td><button class = "disabled">√</button></td>
+					</tr>
+					<tr>
+						<td><button class = "gradient">Rol</button></td>
+						<td><button class = "gradient">RoR</button></td>
+						<td><button class = "disabled">C</button></td>
+						<td><button class = "digit">7</button></td>
+						<td><button class = "digit">8</button></td>
+						<td><button class = "digit">9</button></td>
+						<td><button class = "gradient">/</button></td>
+						<td><button class = "disabled">%</button></td>
+					</tr>
+					<tr>
+						<td><button class = "gradient">Or</button></td>
+						<td><button class = "gradient">Xor</button></td>
+						<td><button class = "disabled">D</button></td>
+						<td><button class = "digit">4</button></td>
+						<td><button class = "digit">5</button></td>
+						<td><button class = "digit">6</button></td>
+						<td><button class = "gradient">*</button></td>
+						<td><button class = "disabled">1/x</button></td>
+					</tr>
+					<tr>
+						<td><button class = "gradient">Lsh</button></td>
+						<td><button class = "gradient">Rsh</button></td>
+						<td><button class = "disabled">E</button></td>
+						<td><button class = "digit">1</button></td>
+						<td><button class = "digit">2</button></td>
+						<td><button class = "digit">3</button></td>
+						<td><button class = "gradient">-</button></td>
+						<td rowspan="2"><button class = "gradient">=</button></td></td>
+					</tr>
+					<tr>
+						<td><button class = "gradient">Not</button></td>
+						<td><button class = "gradient">And</button></td>
+						<td><button class = "disabled">F</button></td>
+						<td colspan = "2"><button class = "digit">0</button></td></td>
+						<td><button class = "disabled">.</button></td>
+						<td><button class = "gradient">+</button></td>
+					</tr>
+				</table>
+			</section>
+
+		</div>
+
+	</div>
+</body>
+</html>

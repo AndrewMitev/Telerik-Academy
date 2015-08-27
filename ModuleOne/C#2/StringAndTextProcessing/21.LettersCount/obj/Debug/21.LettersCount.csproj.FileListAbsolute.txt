@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\21.LettersCount\bin\Debug\21.LettersCount.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\21.LettersCount\bin\Debug\21.LettersCount.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\21.LettersCount\bin\Debug\21.LettersCount.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\21.LettersCount\obj\Debug\21.LettersCount.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\21.LettersCount\obj\Debug\21.LettersCount.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\21.LettersCount\obj\Debug\21.LettersCount.pdb

@@ -1,0 +1,86 @@
+section:first-of-type {
+    display: block;
+    width: 660px;
+    height: 300px;
+    background-color: rgb(59, 59, 59);
+    margin: 100px auto;
+    border-radius: 10px;
+
+}
+
+header {
+	padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    background: -moz-linear-gradient(top, #3a3a3a 32%, #131313 100%);
+    /* FF3.6+ */
+    
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #3a3a3a), color-stop(100%, #131313));
+    /* Chrome,Safari4+ */
+    
+    background: -webkit-linear-gradient(top, #3a3a3a 32%, #131313 100%);
+    /* Chrome10+,Safari5.1+ */
+    
+    background: -o-linear-gradient(top, #3a3a3a 32%, #131313 100%);
+    /* Opera 11.10+ */
+    
+    background: -ms-linear-gradient(top, #3a3a3a 32%, #131313 100%);
+    /* IE10+ */
+    
+    background: linear-gradient(to bottom, #3a3a3a 32%, #131313 100%);
+    /* W3C */
+}
+
+header > span {
+    font-size: 21px;
+    color: white;
+}
+
+header > img {
+    vertical-align: middle;
+}
+
+header > button {
+    background-image: url("Images\\goBtn.png");
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+header > input {
+    width: 150px;
+    height: 20px;
+    padding-left: 13px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+header > span,
+input,
+button {
+    margin: 0px 10px;
+}
+
+div#inner {
+	margin-left: 10px;
+
+	text-align: left;
+}
+
+div#inner > p span {
+	color: white;
+}
+
+div#inner > p {
+	color: rgb(163,163,163);
+}
+
+h2 {
+	color: yellow;
+
+	font-weight: normal;
+	font-size: 26px;
+}

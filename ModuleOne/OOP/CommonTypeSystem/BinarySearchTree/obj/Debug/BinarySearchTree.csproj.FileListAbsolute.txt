@@ -1,0 +1,1 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\CommonTypeSystem\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config

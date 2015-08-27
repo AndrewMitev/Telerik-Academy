@@ -1,0 +1,6 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\TextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.pdb

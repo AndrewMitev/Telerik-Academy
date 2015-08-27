@@ -1,0 +1,169 @@
+body {
+	margin: 0px;
+	padding: 0px;
+
+	background-color: rgb(241,241,241);
+}
+
+aside > nav {
+	width: 200px;
+
+	float: left;
+
+	text-align: left;
+
+	padding-top: 15px; 
+}
+
+nav > ul {
+	margin: 15px 0px 0px 0px;
+	padding: 0px;
+}
+
+aside > nav  ul {
+	list-style-type: none;
+}
+
+nav > ul > li:first-of-type {
+	color: red;
+}
+
+ul a {
+	color: black;
+	text-decoration: none;
+}
+
+main {
+	
+	float: left;
+	padding: 5px;
+	border: 1px solid grey;
+
+	background-color: white;
+
+	height: 675px;
+}
+
+main > h1 {
+	font-size: 24px;
+}
+
+main > button {
+	background-color: white;
+	border: 2px solid black;
+
+	width: 100px;
+	height: 20px;
+
+	padding: 0px;
+
+	font-size: 12px;
+
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+button.first {
+	text-align: left;
+}
+
+button.second {
+	text-align: right;
+}
+
+main > button.second span.rightArrow {
+	margin-left: 20px;
+}
+
+main > button > span.leftArrow {
+	margin-right: 20px;
+}
+
+main span.section {
+	display: block;
+
+	color: white;
+	background-color: rgb(128,128,128);
+
+	padding-left: 5px;
+	margin: 10px 0px;
+}
+
+main img {
+	float: left;
+
+	height: 95px;
+
+	margin-right: 10px;	
+}
+
+main a {
+	color: red;
+	font-weight: normal;
+}
+
+main > div#content {
+	font-weight: bold;
+}
+
+aside#secondAside{
+	float: left;
+
+	width: 200px;
+}
+
+aside#secondAside > section{
+	border: 1px solid grey;
+
+	text-align: center;
+
+	padding: 5px 0px;
+}
+
+aside#secondAside > section.head {
+	padding: 0px;
+}
+
+aside#secondAside > section > h4 {
+	background-color: rgb(128,128,128);
+	color: white;
+
+	margin: 0px;
+	padding: 0px;
+
+	margin-bottom: 5px;
+
+	font-weight: normal;
+}
+
+aside#secondAside > section > input, button, a {
+	margin: 5px 0px;
+}
+
+aside#secondAside > section > input{
+	width: 130px;
+}
+
+aside#secondAside > section > button{
+	width: 20px;
+
+	border: 1px solid blue;
+	border-radius: 2px;
+
+	font-weight: bold;
+}
+
+aside#secondAside > section > a{
+	color: red;
+}
+
+aside#secondAside > section > button#special{
+	width: 155px;
+	height: 40px;
+
+	background-color: aqua;
+	color: blue;
+}
+
+

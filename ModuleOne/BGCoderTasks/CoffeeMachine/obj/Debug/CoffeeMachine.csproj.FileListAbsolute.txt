@@ -1,0 +1,5 @@
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Andrei\documents\visual studio 2013\Projects\BGCoder\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

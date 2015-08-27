@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\05.ParseTags\bin\Debug\_05.ParseTags.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\05.ParseTags\bin\Debug\_05.ParseTags.exe
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\05.ParseTags\bin\Debug\_05.ParseTags.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\05.ParseTags\obj\Debug\_05.ParseTags.exe
+c:\users\andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\05.ParseTags\obj\Debug\_05.ParseTags.pdb
+C:\Users\Andrei\documents\visual studio 2013\Projects\StringAndTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache

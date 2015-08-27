@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\OOP\ExtensionMethodsDelegatesLinqLambda\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb

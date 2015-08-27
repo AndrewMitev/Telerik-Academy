@@ -1,0 +1,6 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ShowAge\bin\Debug\ShowAge.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ShowAge\bin\Debug\ShowAge.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ShowAge\bin\Debug\ShowAge.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ShowAge\obj\Debug\ShowAge.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ShowAge\obj\Debug\ShowAge.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ShowAge\obj\Debug\ShowAge.csprojResolveAssemblyReference.cache
