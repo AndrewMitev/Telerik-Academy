@@ -14,6 +14,7 @@
 ![Mediator Pattern](http://www.dofactory.com/images/diagrams/net/mediator.gif "Mediator Design Pattern")
 
 ###### Mediator example
+```c#
 using System;
 using System.Collections.Generic;
 
@@ -176,7 +177,7 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
     }
   }
 }
-
+```
 
 ----
 
@@ -316,8 +317,8 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
 ![Singleton Pattern](http://docs.groovy-lang.org/latest/html/documentation/assets/img/TemplateMethodClasses.gif "Template Design Pattern")
 
 ###### Example
-
-public class Trip {
+```c#
+	public class Trip {
         public void performTrip(){
                  travelToDestination();
                  doDayOneActivities();
@@ -366,7 +367,7 @@ public class PackageB : Trip {
                  Console.WriteLine("The tourists are travelling home by train ...");
         }
 }
-
+```
 ----
 ## Strategy Pattern
 
@@ -377,6 +378,7 @@ public class PackageB : Trip {
 ![Strategy Pattern](http://www.dofactory.com/images/diagrams/net/strategy.gif "Strategy Design Pattern")
 
 ###### Example
+```c#
 using System;
 using System.Collections.Generic;
 
@@ -491,3 +493,4 @@ namespace DoFactory.GangOfFour.Strategy.RealWorld
     }
   }
 }
+```
