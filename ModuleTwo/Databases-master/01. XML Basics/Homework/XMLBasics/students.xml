@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="student.xslt" ?>
+ <student:students
+	xmlns:student="student"
+	xmlns:exam="exam">
+	<student:student>
+		<student:name>Simeon Georgiev</student:name>
+		<student:sex>male</student:sex>
+		<student:birth-date>08.02.1992</student:birth-date>
+		<student:phone>0232014348329</student:phone>
+		<student:email>nanana@abv.bg</student:email>
+		<student:course>4</student:course>
+		<student:specialty>Agriculture and farming</student:specialty>
+		<student:faculty-number>121212133</student:faculty-number>
+		<student:enrollment-date>2002-09-24</student:enrollment-date>
+		<student:enrollment-exam-score>4.80</student:enrollment-exam-score>
+		<student:exams>
+			<exam:exam>
+				<exam:name>Mathematics</exam:name>
+				<exam:tutor>Ivan Georgiev</exam:tutor>
+				<exam:tutor-endorsment>Very well!</exam:tutor-endorsment>
+				<exam:score>3.20</exam:score>
+			</exam:exam>	
+			<exam:exam>
+				<exam:name>Mathematics 2</exam:name>
+				<exam:tutor>Hristo Prisadov</exam:tutor>
+        <exam:tutor-endorsment>Poorly done!</exam:tutor-endorsment>
+				<exam:score>5</exam:score>
+			</exam:exam>
+		</student:exams>
+	</student:student>
+</student:students>

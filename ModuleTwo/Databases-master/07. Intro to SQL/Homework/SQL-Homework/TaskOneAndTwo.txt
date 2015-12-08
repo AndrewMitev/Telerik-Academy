@@ -1,0 +1,5 @@
+What is SQL? What is DML? What is DDL? Recite the most important SQL commands?
+
+SQL (Structured Query Language) е описателен език който служи за извличане и запис на данни в база данни. Може да се раздели на две части. Първа част - заявки които служат за манипулации на данни (SELECT, INSERT, UPDATE, DELETE), Втора част - заявки които служат за описание на таблиците (CREATE, DROP, ALTER)
+
+T-SQL - това е разширение на възможностите на езика SQL, предимно се използва от MS SQL SERVER, поддържа if, loops, exception конструкции. Използва се също така за създаване на съхранени процедури, тригери, функции и т.н. 

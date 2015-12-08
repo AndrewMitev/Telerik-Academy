@@ -1,0 +1,10 @@
+Select s.Name, COUNT(p.ProductId) As Available Products
+FROM Species s
+INNER JOIN productspecies p 
+ON s.SpeciesId = p.SpeciesId;
+
+=== OR ======
+
+SELECT s.Name, 
+COUNT(SELECT p.ProductId FROM productspecies p WHERE p.SpeciesId = s.SpeciesId) AS Available Products 
+FROM Species s;

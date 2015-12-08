@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crowd</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <link rel="stylesheet" href="bower_components/toastr/toastr.css"/>
+    <link rel="stylesheet" href="bower_components/simplePagination.js/simplePagination.css"/>
+</head>
+<body>
+<!--<header class="container">-->
+
+<!--<div class="row">-->
+<!--<h1 class="page-header col-md-6">Self Manager-->
+<!--<small>Self Manager</small>-->
+<!--</h1>-->
+
+<!--<form class="form-inline col-md-6" id="container-sign-in">-->
+<!--<div class="form-group">-->
+<!--<label class="sr-only" for="tb-username">Username</label>-->
+<!--<input type="text" class="form-control" id="tb-username" placeholder="Username">-->
+<!--</div>-->
+<!--<div class="form-group">-->
+<!--<label class="sr-only" for="tb-password">Password</label>-->
+<!--<input type="password" class="form-control" id="tb-password" placeholder="Password">-->
+<!--</div>-->
+
+<!--<button id="btn-sign-in" class="btn btn-default">Sign in</button>-->
+<!--<a href="#/users/register"> or Register</a>-->
+<!--</form>-->
+
+<!--<form class="form-inline col-md-6" id="container-sign-out">-->
+<!--<button id="btn-sign-out" class="btn btn-default">Sign out</button>-->
+<!--</form>-->
+<!--</div>-->
+
+<!--<nav class="navbar navbar-default row">-->
+<!--<ul class="nav navbar-nav col-md-8">-->
+<!--<li><a href="#/">Posts</a></li>-->
+<!--</ul>-->
+<!--</nav>-->
+<!--<div id="content"></div>-->
+<!--</header>-->
+
+
+<div id="display" class="container"></div>
+<div id="selector"></div>
+<!-- Libraries-->
+<script src="bower_components/jquery/dist/jquery.js"></script>
+<!--<script src="bower_components/sammy/lib/sammy.js"></script>-->
+<!--<script src="bower_components/toastr/toastr.js"></script>-->
+<!--<script src="bower_components/sha1/index.js"></script>-->
+<!--<script src="bower_components/handlebars/handlebars.js"></script>-->
+
+<!--&lt;!&ndash;Custom scripts &ndash;&gt;-->
+<!--<script src="helpers/templates.js"></script>-->
+<!--<script src="helpers/json-requester.js"></script>-->
+<!--<script src="helpers/data.js"></script>-->
+<!--<script src="controllers/userController.js"></script>-->
+<!--<script src="app.js"></script>-->
+<script src="bower_components/simplePagination.js/jquery.simplePagination.js"></script>
+<script>
+    var data = [];
+
+    for (var i = 1; i <= 10; i++) {
+        data.push(i);
+    }
+
+    $(function () {
+        $('#selector').pagination({
+            items: 10,
+            itemsOnPage: 2,
+            cssStyle: 'light-theme',
+            onPageClick: function(pageNumber){
+                var startFrom = 2 * (pageNumber - 1),
+                        endIn = startFrom + 2;
+                var needed = data.slice(startFrom, endIn);
+                $('#display').html(needed);
+            }
+        });
+    });
+</script>
+
+
+</body>
+</html>

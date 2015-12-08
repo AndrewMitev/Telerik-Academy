@@ -1,0 +1,2 @@
+XML stands for Extensible Markup Language. It's main purpose is to carry data in a certain, universal form, so that everyone
+can use it in the same way. The data that is transfered is in tree format and is represented through text and tags.

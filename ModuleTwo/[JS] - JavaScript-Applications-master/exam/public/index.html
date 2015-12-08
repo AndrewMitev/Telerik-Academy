@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Self Manager</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="bower_components/toastr/toastr.css"/>
+</head>
+
+<body>
+<div id="root">
+    <header class="container">
+
+        <div class="row">
+            <h1 class="page-header col-md-6">Fortune Cookies
+                <small>fortune cookies</small>
+            </h1>
+
+            <form class="form-inline col-md-6" id="container-sign-in">
+                <div class="form-group">
+                    <label class="sr-only" for="tb-username">Username</label>
+                    <input type="text" class="form-control" id="tb-username" placeholder="Username">
+                </div>
+                <div class="form-group">
+                    <label class="sr-only" for="tb-password">Password</label>
+                    <input type="password" class="form-control" id="tb-password" placeholder="Password">
+                </div>
+
+                <button id="btn-sign-in" class="btn btn-default">Sign in</button>
+                <a href="#/users/register"> or Register</a>
+            </form>
+
+            <form class="form-inline col-md-6" id="container-sign-out">
+                <button id="btn-sign-out" class="btn btn-default">Sign out</button>
+            </form>
+        </div>
+
+        <nav class="navbar navbar-default row">
+            <ul class="nav navbar-nav col-md-8">
+                <li><a href="#/">All Cookies</a></li>
+                <li class="special"><a href="#/share">Share cookie</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <select id="categories" class="form-control"></select>
+    <button id="showSelectedCategory" class="btn btn-default">Show selected category</button>
+
+
+    <div id="content" class="container">
+
+    </div>
+</div>
+
+
+<!-- Libraries -->
+<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="bower_components/sammy/lib/sammy.js"></script>
+<script src="bower_components/handlebars/handlebars.js"></script>
+<script src="bower_components/toastr/toastr.js"></script>
+<script src="bower_components/underscore/underscore.js"></script>
+<script src="bower_components/sha1/index.js"></script>
+
+
+<!-- Controllers -->
+<script src="controllers/user-controller.js"></script>
+<script src="controllers/cookie-controller.js"></script>
+
+<!-- Helpers -->
+<script src="helpers/templates.js"></script>
+<script src="helpers/data.js"></script>
+<script src="helpers/json-requester.js"></script>
+
+<!-- App: Start -->
+<script src="app.js"></script>
+
+
+</body>
+</html>

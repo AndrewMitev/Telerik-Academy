@@ -1,0 +1,4 @@
+Pet table has foreign keys to color table and species table. Many-to-one relations.
+Species table has foreign key to countries table that holds only the name of the country. The relation is Many-to-one.
+Products table has foreign key to species and the relationship is many-to-many.
+Products table has foreign key to categories.

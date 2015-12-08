@@ -1,0 +1,55 @@
+1. Create solution
+
+2. Create Class Library - <name>.Models
+	- Add references System.ComponentModel.DataAnnotations
+	- Solution -> right click -> NuGet packages -> Install EntityFramework
+	- Create all tables models
+
+3. Create Class Library - <name>.Data
+	- Add references <name>.Models
+	- Solution -> right click -> NuGet packages -> Install EntityFramework
+	- App.config -> connectionString 
+		<connectionStrings>
+    		<add name="<nameOfDb>" connectionString="Data Source=.;Initial Catalog=LaptopFactoryDB;Integrated Security = true" providerName="System.Data.SqlClient"/>
+  		</connectionStrings>
+  	- new class
+  		namespace LaptopFactory.Data
+		{
+		    using System.Data.Entity;
+
+		    class LaptopFactoryDbContext : DbContext
+		    {
+		        public LaptopFactoryDbContext()
+		            : base("LaptopFactory")
+		        {
+		        }
+
+		        public virtual IDbSet<Model> Models { get; set; }
+		    }
+		}
+	- ctrl + Q -> Package Manager Console -> Default project -> <name>.Data
+		enable-migrations
+	- Migration -> Configuration from internal to public 
+		namespace LaptopFactory.Data.Migrations
+		{
+		    using System.Data.Entity.Migrations;
+
+		    public sealed class Configuration : DbMigrationsConfiguration<LaptopFactoryDbContext>
+		    {
+		        public Configuration()
+		        {
+		            this.AutomaticMigrationsEnabled = true;
+		            this.AutomaticMigrationDataLossAllowed = false;
+		        }
+
+		        protected override void Seed(LaptopFactoryDbContext context)
+		        {
+		        }
+		    }
+		}
+4. Create Console App - <name>.ConsoleClient
+	- Solution -> right click -> NuGet packages -> Install EntityFramework
+	- Add references <name>.Models
+	- Add references <name>.Data
+	- In main
+		Database.SetInitializer(new MigrateDatabaseToLatestVersion<StudentSystemDbContext, Configuration>());

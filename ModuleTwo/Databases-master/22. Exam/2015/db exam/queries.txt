@@ -1,0 +1,15 @@
+Select Price, Breed, BirthDate.Value.Year AS Birth Year
+FROM Pets WHERE  BirthDate.Value.Year >= 2012
+ORDER BY Price DESC LIMIT 5;
+
+
+// 1
+SELECT s.Name, 
+COUNT(SELECT p.ProductId FROM productspecies p WHERE p.SpeciesId = s.SpeciesId) AS Available Products 
+FROM Species s;
+
+// 2
+Select s.Name, COUNT(p.ProductId) As Available Products
+FROM Species s
+INNER JOIN productspecies p 
+ON s.SpeciesId = p.SpeciesId;

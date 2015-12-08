@@ -1,0 +1,2 @@
+Namespaces in XML are used to avoid name conflicts when using XML tags. The name of the namespace must be unique, usually
+it references some remote resource(web-page, file)

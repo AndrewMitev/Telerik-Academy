@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>useless app</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+
+    <header>
+        <section>
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Create TODO</a></li>
+                    <li><a href="">Create Event</a></li>
+                    <li><a href="">Create Event</a></li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+
+
+    <div id="content"></div>
+
+    <!-- Libraries-->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/sammy/lib/sammy.js"></script>
+    <script src="bower_components/handlebars/handlebars.js"></script>
+
+    <!-- Custom scripts-->
+    <script src="controllers/home-controller.js"></script>
+    <script src="helpers/templates.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

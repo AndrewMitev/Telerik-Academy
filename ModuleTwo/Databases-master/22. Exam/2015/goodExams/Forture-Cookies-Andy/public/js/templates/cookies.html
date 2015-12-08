@@ -1,0 +1,15 @@
+﻿<h1>Fortune Cookies</h1>
+{{#if this}}
+{{#each this}}
+<div class="row table-bordered">
+    <h3 class="col-md-3">Text: {{text}}</h3>
+    <h3 class="col-md-3">Category: {{category}}</h3>
+    <img class="col-md-2 thumbnail" src="{{img}}" />
+
+    <button id="btn-like" class="btn btn-default"><strong class="glyphicon glyphicon-thumbs-up"> Likes: {{likes}}</strong></button>
+    <button id="btn-dislike" class="btn btn-default"><strong class="glyphicon glyphicon-thumbs-down"> Dislikes: {{dislikes}}</strong></button>
+</div>
+{{/each}}
+{{else}}
+<h2>No cookies!</h2>
+{{/if}}

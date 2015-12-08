@@ -1,0 +1,3 @@
+Select Price, Breed, BirthDate.Value.Year AS Birth Year
+FROM Pets WHERE  BirthDate.Value.Year >= 2012
+ORDER BY Price DESC LIMIT 5;

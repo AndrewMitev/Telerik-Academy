@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue name="Catalogue of Albums">
+    <album>
+      <name>Heart stuff</name>
+      <artist>Jon Bon Jovi</artist>
+      <year>2004</year>
+      <producer>Sam Witwiki</producer>
+      <price>3200</price>
+      <songs>
+        <song>
+          <title>My heart is shaking</title>
+          <duration>4200</duration>
+        </song>
+        <song>
+          <title>My heart is frozen</title>
+          <duration>230</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Doge's debut</name>
+      <artist>Doge Dogev</artist>
+      <year>2019</year>
+      <producer>Sam Witwiki 2</producer>
+      <price>1</price>
+      <songs>
+        <song>
+          <title>Doge Title</title>
+          <duration>100000</duration>
+        </song>
+        <song>
+          <title>Doge is life</title>
+          <duration>820</duration>
+        </song>
+        <song>
+          <title>Doge is soul</title>
+          <duration>234</duration>
+        </song>
+        <song>
+          <title>Amin!</title>
+          <duration>511</duration>
+        </song>
+      </songs>
+    </album>
+	<album>
+      <name>Doge's Premium</name>
+      <artist>Doge Dogev</artist>
+      <year>2019</year>
+      <producer>Sam Witwiki 3</producer>
+      <price>2</price>
+      <songs>
+        <song>
+          <title>Doge Title 2</title>
+          <duration>200000</duration>
+        </song>
+        <song>
+          <title>It's my doge</title>
+          <duration>820</duration>
+        </song>
+        <song>
+          <title>You give doge a bad name</title>
+          <duration>234</duration>
+        </song>
+        <song>
+          <title>Bed full of doges</title>
+          <duration>511</duration>
+        </song>
+      </songs>
+    </album>
+</catalogue>

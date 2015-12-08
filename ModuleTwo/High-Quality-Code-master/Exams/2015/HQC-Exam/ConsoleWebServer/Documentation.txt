@@ -1,0 +1,38 @@
+Design pattern: Factory Method
+	* 
+
+Design pattern: Strategy
+	* Create different HttpResponce according to the instance of IActionresult in HttpResponse class.
+
+Design pattern: Template Method
+	* HttpResponce uses method GetContent which is abstract method differently implemented in ContentActionResult and JsonActionresult.
+	* GetResponce method has different implementation in successors of ActionResult
+
+Design pattern: Chain of Responsibility
+	* 
+
+Design pattern: Decorator
+	* 
+
+Found bugs:
+	* JsonActionResultWithoutCaching throws unnecessary Exception.
+	* 
+	* 
+
+Found bottleneck:
+	* In ActionDescriptor class uri was being converted to List, then to Enumerable, then made as Queryable, which uses not needed memory.
+
+Single responsibility principle
+	* HomeController is responsible only for the invocation of a ContentAction class.
+
+Open/closed principle
+	* JsonActionresult can be further extended without need to change it.
+
+Liskov substitution principle
+	* JsonActionresult can be substituted by inheritors.
+
+Interface segregation principle
+	* Interfaces are short. Don't need to be split into different ones.
+
+Dependency inversion principle
+	* Methods use IActionResult interface. Do not need concrete implementation.
