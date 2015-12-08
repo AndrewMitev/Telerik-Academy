@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTrees", "BinaryTrees\BinaryTrees.csproj", "{ABB244C2-EE6C-4652-977D-15797569B6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPasswords", "BinaryPasswords\BinaryPasswords.csproj", "{22A92597-EAE4-4838-8821-B641324E0764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunnies", "Bunnies\Bunnies.csproj", "{10B2B302-1C8E-487E-B27A-2E1C8ED9BD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Source", "Соурце\Source.csproj", "{E7E68617-9075-4011-8C3A-CFCAC375123C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromize", "Palindromize\Palindromize.csproj", "{444EA7E3-E346-4ACF-BF74-A4BDDBB1088F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatingPattern", "RepeatingPattern\RepeatingPattern.csproj", "{BA4063D7-0010-48B5-9E16-11CA8A4A1DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB244C2-EE6C-4652-977D-15797569B6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB244C2-EE6C-4652-977D-15797569B6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB244C2-EE6C-4652-977D-15797569B6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB244C2-EE6C-4652-977D-15797569B6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A92597-EAE4-4838-8821-B641324E0764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A92597-EAE4-4838-8821-B641324E0764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A92597-EAE4-4838-8821-B641324E0764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A92597-EAE4-4838-8821-B641324E0764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B2B302-1C8E-487E-B27A-2E1C8ED9BD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B2B302-1C8E-487E-B27A-2E1C8ED9BD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B2B302-1C8E-487E-B27A-2E1C8ED9BD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B2B302-1C8E-487E-B27A-2E1C8ED9BD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E68617-9075-4011-8C3A-CFCAC375123C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E68617-9075-4011-8C3A-CFCAC375123C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E68617-9075-4011-8C3A-CFCAC375123C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E68617-9075-4011-8C3A-CFCAC375123C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444EA7E3-E346-4ACF-BF74-A4BDDBB1088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444EA7E3-E346-4ACF-BF74-A4BDDBB1088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444EA7E3-E346-4ACF-BF74-A4BDDBB1088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444EA7E3-E346-4ACF-BF74-A4BDDBB1088F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4063D7-0010-48B5-9E16-11CA8A4A1DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4063D7-0010-48B5-9E16-11CA8A4A1DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4063D7-0010-48B5-9E16-11CA8A4A1DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4063D7-0010-48B5-9E16-11CA8A4A1DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
