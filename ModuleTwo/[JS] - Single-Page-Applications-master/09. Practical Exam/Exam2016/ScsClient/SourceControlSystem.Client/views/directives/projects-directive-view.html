@@ -1,0 +1,17 @@
+﻿<div class="jumbotron">
+    <h2>Projects</h2>
+    <table class="table table-bordered">
+        <tr>
+            <th>Name</th>
+            <th>Created On</th>
+            <th>Total Users</th>
+            <th>License</th>
+        </tr>
+        <tr ng-repeat="project in vm.projects">
+            <td>{{project.Name}}</td>
+            <td>{{project.CreatedOn}}</td>
+            <td>{{project.TotalUsers}}</td>
+            <td>{{project.License}}</td>
+        </tr>
+    </table>
+</div>

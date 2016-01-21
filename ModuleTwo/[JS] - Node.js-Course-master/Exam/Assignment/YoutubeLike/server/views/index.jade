@@ -1,0 +1,18 @@
+extends shared/layout
+block main-content
+    each playlist in playlists
+        .row
+            .col-md-6.col-md-offset-3
+                .panel.panel-primary
+                    .panel-heading
+                        h3.panel-title #{playlist.title}
+                    .panel-body
+                        .row.text-center Description: #{playlist.description}
+                        .row.text-center Category: #{playlist.category}
+                        .row.text-center Rating: #{playlist.rating}
+
+                        ul
+                        each url in playlist.videoUrls
+                            li #{url}
+                        br
+                        span Created On: #{playlist.creationDate.getMonth() + 1 +'/'+ playlist.creationDate.getDate() + '/' +playlist.creationDate.getFullYear()} by #{playlist.creator}

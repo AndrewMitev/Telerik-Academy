@@ -1,0 +1,10 @@
+extends ./layout
+block content
+    form(method="post")
+        label(for="planeName") Plane name
+        input(id="planeName" class="form-control" type="text" name="name" placeholder="Plane name")
+        br
+        label(for="planeTorque") Torque
+        input(id="planeTorque" class="form-control" type="number" name="torque" placeholder="Plane Torque")
+        br
+        input(type="submit" class="btn btn-lg" value="Add New Plane")

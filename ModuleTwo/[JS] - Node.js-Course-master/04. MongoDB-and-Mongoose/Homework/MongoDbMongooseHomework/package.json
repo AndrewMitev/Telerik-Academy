@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-exercise",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "none",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.3.5"
+  }
+}

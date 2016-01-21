@@ -1,0 +1,32 @@
+﻿<div class="jumbotron">
+    <div class="col-md-6 col-md-offset-3">
+        <div class="col-md-3">
+            Total Users: {{vm.stats.Users}}
+        </div>
+        <div class="col-md-3">
+            Projects: {{vm.stats.Projects}}
+        </div>
+        <div class="col-md-3">
+            Commits: {{vm.stats.Commits}}
+        </div>
+    </div>
+</div>
+
+<div class="row">
+
+    <div first-ten-projects></div> 
+
+    <div class="jumbotron">
+        <h2>Commits</h2>
+        <table class="table table-bordered">
+            <tr>
+                <th>User</th>
+                <th>Created On</th>
+            </tr>
+            <tr ng-repeat="commit in vm.commits">
+                <td>{{commit.UserName}}</td>
+                <td>{{commit.CreatedOn}}</td>
+            </tr>
+        </table>
+    </div>
+</div>

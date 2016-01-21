@@ -1,0 +1,20 @@
+extends ../shared/layout
+block main-content
+    .row
+        .col-md-6.col-md-offset-3
+            .panel.panel-primary
+                .panel-heading
+                    h3.panel-title #{user.username}
+                .panel-body
+                    .row.col-md-6
+                        img(style="width:120px; height: 120px;" src="#{user.avatar}")
+                    .row.col-md-6
+                        .row.text-center First Name: #{user.firstName}
+                        .row.text-center Last Name: #{user.lastName}
+                        .row.text-center E-mail: #{user.email}
+                        .row.text-center Rating: #{user.rating}
+                        .row.text-center Authorized users:
+                        ul
+                        each allowed in user.authorizedUsers
+                            li
+                                em #{allowed}

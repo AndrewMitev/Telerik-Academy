@@ -1,0 +1,29 @@
+extends ../shared/layout
+block main-content
+    br
+    br
+    br
+    form(method="post").form-horizontal
+        fieldset
+            legend Add new playlist
+            .form-group
+                label(for="title").col-md-2.control-label Title
+                .col-md-10
+                    input(id="title" class="form-control" type="text" name="title" placeholder="Title").form-control
+            .form-group
+                label(for="description").col-md-2.control-label Description
+                .col-md-10
+                    input(id="description" class="form-control" type="text" name="description" placeholder="Description").form-control
+            .form-group
+                label(for="category").col-md-2.control-label Category
+                .col-md-10
+                    select(id="category" name="category").form-control
+                        option(value="Movies") Movies
+                        option(value="Music") Music
+            .form-group
+                label(for="isPrivate").col-md-2.control-label Is Private
+                .col-md-1
+                    input(id="isPrivate" type="checkbox" name="isPrivate").form-control
+            .form-group
+                .col-md-2.col-md-offset-2
+                    input(type="submit" value="Add playlist").form-control

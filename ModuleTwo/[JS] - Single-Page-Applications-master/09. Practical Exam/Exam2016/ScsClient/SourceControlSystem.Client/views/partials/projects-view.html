@@ -1,0 +1,79 @@
+﻿<div class="container" ng-if="vm.isAuth">
+    <div class="well">
+        <form name="signUpForm" class="form-horizontal">
+            <fieldset>
+                <legend>Filters</legend>
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        Page Size: <input type="number" ng-model="vm.request.pageSize" />
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        Name or Description: <input type="text" ng-model="vm.request.filter" />
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        Order By(date, collab, name): <input type="text" ng-model="vm.request.orderBy" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        <select ng-model="vm.request.orderType">
+                            <option value="asc">Asc</option>
+                            <option value="asc">Desc</option>
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        By User Email: <input type="text" ng-model="vm.request.byUser" />
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        <input type="checkbox" ng-model="vm.request.onlyPublic" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        <button class="btn btn-primary" ng-click="vm.prevPage()">&lt;&lt;</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        <input type="number" ng-model="vm.request.page" class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-2">
+                        <button class="btn btn-primary" ng-click="vm.nextPage()">&gt;&gt;</button>
+                    </div>
+                </div>
+
+                <div class="pull-right">
+                    <button ng-click="vm.filterProjects()" class="btn btn-primary">
+                        Filter
+                    </button>
+                    <a href="#/" class="btn btn-primary">Cancel</a>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+<div first-ten-projects></div>
