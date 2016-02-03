@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <title>Imaginary Company – Enterprise Edition</title>
+    <link href="Site.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <header>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderHeader" runat="server">
+        </asp:ContentPlaceHolder>
+        <div>Imaginary Jedi Company – Community Galax Site</div>
+    </header>
+
+    <form id="FormMain" runat="server">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderPageContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+
+    <footer>(c) 3721 – Jedi Company</footer>
+</body>
+
+</html>

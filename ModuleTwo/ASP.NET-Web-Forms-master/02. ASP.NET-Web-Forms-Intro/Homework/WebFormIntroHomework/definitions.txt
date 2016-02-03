@@ -1,0 +1,14 @@
+Explanation of files in Web Forms Default Project Template:
+	1.Web config: Has the configuration described of the App in xml-based text.
+		Could contain connection string to specify the database to use,
+		could specify if debugging is allowed, contains security and membership setings.
+	2. ViewSwitcher.ascx: obviously used to switch views.
+	3. Site.Master & Site.Mobile.Master: Layout used for every .aspx page for web and mobile versions.
+	4. Project_Readme.html: some random readme i guess.
+	5. packages.config: holds packages that are necessary for the app to run. When the project is deployed it install them automatically
+	6. Global.asax: Entry point of the App. Application_Start method: Code that runs on application startup
+	7. favicon.ico: fav icon to display on the tab.
+	8. Default, About and Contact.aspx files: defaultly generated aspx pages.
+	9. Bundle.config: Bundling and minification improves load time by reducing the number of requests to the server and reducing the size of requested assets (such as CSS and JavaScript.)
+
+	Code behind model: there is design view of .apsx page and every control has it's code defind (controlls) in two partials: .aspx.cs and aspx.designer.cs
