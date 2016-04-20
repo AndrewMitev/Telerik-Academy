@@ -1,0 +1,56 @@
+﻿@model MvcTemplate.Web.ViewModels.Feedback.FeedbackListViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Feedbacks @Model.CurrentPage</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>Title</th>
+        <th>Content</th>
+        <th>Author</th>
+        <th>Created On</th>
+    </tr>
+    @foreach (var feed in Model.Feedbacks)
+    {
+        <tr>
+            <th>@feed.Title</th>
+            <td>@Html.Raw(feed.SanitizedContent)</td>
+            <td>@feed.Author</td>
+            <td>@feed.CreatedOn</td>
+        </tr>
+    }
+</table>
+<nav class="text-center">
+    <ul class="pagination">
+        @if (Model.CurrentPage > 1)
+        {
+            <li>
+                <a href="/PageableFeedbackList/Index?page=@(Model.CurrentPage - 1)" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+        }
+
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            var className = string.Empty;
+            if (i == Model.CurrentPage)
+            {
+                className = "active";
+            }
+            <li class="@className"><a href="/PageableFeedbackList/Index?page=@i">@i</a></li>
+        }
+
+        <li>
+            @if (Model.CurrentPage < Model.TotalPages)
+            {
+                <a href="/PageableFeedbackList/Index?page=@(Model.CurrentPage + 1)" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            }
+        </li>
+    </ul>
+</nav>
+

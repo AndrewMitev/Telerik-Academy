@@ -1,0 +1,25 @@
+﻿@model IEnumerable<AjaxHomework.Models.Movie>
+
+@{
+    foreach (var movie in Model)
+    {
+        <div class="row">
+            <div class="col-md-4">
+                @movie.Title <small>@movie.Year</small>
+            </div>
+            <div class="col-md-4">
+                Director: @movie.Director
+            </div>
+            <div class="col-md-4">
+                @Ajax.ActionLink("Delete", "Delete", null,
+                    new AjaxOptions
+                    {
+                        UpdateTargetId = "results",
+                        HttpMethod = "GET",
+                        InsertionMode = InsertionMode.Replace,
+                    }, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+        <br />
+    }
+}

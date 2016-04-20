@@ -1,0 +1,36 @@
+﻿@model IEnumerable<UserVoice.Web.ViewModels.IdeaViewModels.IdeaViewModel>
+
+@Html.Partial("_PostIdeaPartial", new UserVoice.Web.ViewModels.IdeaViewModels.IdeaViewModel())
+<br />
+
+@foreach (var idea in Model)
+{
+    <div class="row">
+        <div class="col-md-3">
+            <div style="width:100px; height:60px;border: 1px solid black">
+                <strong>@idea.Votes</strong><br />
+                <span>votes</span>
+            </div>
+            <br />
+            
+            @using (Html.BeginForm("UpdateIdeaVotes", "Home", new { @class = "form-horizontal" }))
+            {
+                <input type="hidden" name="ideaId" value="@idea.Id" />
+                <select name="value">
+                    <option value="1">1 Votes</option>
+                    <option value="2">2 Votes</option>
+                    <option value="3">3 Votes</option>
+                </select>
+                <input type="submit" value="Vote" class="form-control btn btn-default" style="width:100px; height:30px;" />
+            }
+
+        </div>
+        <div class="col-md-9">
+            <h3 style="color:rebeccapurple">@idea.Title</h3>
+            <p>@idea.Description</p>
+            <p>
+                <small>@idea.CommentsCount comments</small>
+            </p>
+        </div>
+    </div>
+}

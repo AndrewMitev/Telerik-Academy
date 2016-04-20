@@ -1,0 +1,19 @@
+﻿@model BitCalculator.Models.Data
+
+<h3>Results</h3>
+@{
+    if (Model.dataToDisplay != null)
+    {
+        <div class="row">
+            @foreach (var entity in Model.dataToDisplay)
+            {
+                <div class="col-md-3">
+                    @entity.Name
+                </div>
+                <div class="col-md-9">
+                    @entity.Value
+                </div>
+            }
+        </div>
+    }
+}

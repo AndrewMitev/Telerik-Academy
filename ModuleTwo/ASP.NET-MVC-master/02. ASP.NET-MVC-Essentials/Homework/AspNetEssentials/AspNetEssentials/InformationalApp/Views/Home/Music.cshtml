@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>Here i will test sections behaviour</p>
+
+@section SideBar{
+    <aside>
+        <ul>
+            @{
+                for (int i = 0; i < 3; i++)
+                {
+                    <li><a href="https://www.youtube.com/watch?v=Rb285BjpmEU">This is what i am currently watching.</a></li>
+                }
+            }
+        </ul>
+    </aside>
+}
+
+<article>
+    <section>
+        <h2>What is music about?</h2>
+        <p>Music is a collection of sound waves that are absolutely obsolette to nature but have profound effect on humans.</p>
+    </section>
+</article>

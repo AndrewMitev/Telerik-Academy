@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@(Html.Kendo()
+                .Grid<MvcTemplate.Web.Areas.Administration.ViewModels.CommentAdminViewModel>()
+                .Name("grid")
+                .Columns(column =>
+                {
+                    column.Bound(m => m.Content);
+                    column.Bound(m => m.AuthorEmail);
+                    column.Bound(m => m.AuthorIP);
+                    column.Bound(m => m.DeletedOn).Format("{0:yyyy-MM-dd HH:mm}");
+                    column.Bound(m => m.IsDeleted);
+                    column.Bound(m => m.ModifiedOn).Format("{0:yyyy-MM-dd HH:mm}");
+
+                    column.Command(command => { command.Edit(); command.Destroy(); });
+                })
+                .ToolBar(toolBar =>
+                {
+                    toolBar.Excel();
+                })
+                .ColumnMenu()
+                .Editable(editable => editable.Mode(GridEditMode.PopUp))
+                .Pageable()
+                .Sortable(sortable => { sortable.SortMode(GridSortMode.SingleColumn); })
+                .HtmlAttributes(new { style = "height:550px;" })
+                .DataSource(dataSource => dataSource
+                    .Ajax()
+                    .Model(model =>
+                    {
+                        model.Id(b => b.Id);
+                        model.Field(f => f.Id).Editable(false);
+                        model.Field(f => f.AuthorIP).Editable(false);
+                        model.Field(f => f.CreatedOn).Editable(false);
+                        model.Field(f => f.DeletedOn).Editable(false);
+                        model.Field(f => f.ModifiedOn).Editable(false);
+                        model.Field(f => f.IsDeleted).Editable(false);
+                    })
+                    .PageSize(7)
+                    .Read(read => read.Action("Read", "CommentsAdmin"))
+                    .Update(update => update.Action("Edit", "CommentsAdmin"))
+                    .Destroy(destroy => destroy.Action("Delete", "CommentsAdmin"))
+                ))
+

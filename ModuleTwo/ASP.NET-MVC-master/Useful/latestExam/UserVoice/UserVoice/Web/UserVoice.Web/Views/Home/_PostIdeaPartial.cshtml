@@ -1,0 +1,19 @@
+﻿@model UserVoice.Web.ViewModels.IdeaViewModels.IdeaViewModel
+
+@using (Html.BeginForm("PostIdea", "Home", new { @class = "form-horizontal" }))
+{
+    @Html.AntiForgeryToken()
+
+    <h3>I suggest you ...</h3>
+    <div>
+        @Html.TextBoxFor(b => b.Title, new { @class = "form-control", placeholder = "Enter your idea" })
+        @Html.ValidationMessageFor(x => x.Title)
+    </div>
+    <div>
+        @Html.TextBoxFor(b => b.Description, new { @class = "form-control", placeholder = "Enter description" })
+        @Html.ValidationMessageFor(x => x.Description)
+    </div>
+
+    <br />
+    <input type="submit" value="Post Idea" class="form-control btn-primary" />
+}

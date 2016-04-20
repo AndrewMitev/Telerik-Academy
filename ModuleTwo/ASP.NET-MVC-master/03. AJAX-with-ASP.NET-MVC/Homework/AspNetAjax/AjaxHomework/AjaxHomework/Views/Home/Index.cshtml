@@ -1,0 +1,30 @@
+﻿@model List<AjaxHomework.Models.Movie>
+
+<h2>Create new Movie!</h2>
+
+@using (Ajax.BeginForm("Create", null,
+                            new AjaxOptions
+                            {
+                                UpdateTargetId = "results",
+                                InsertionMode = InsertionMode.ReplaceWith,
+                                HttpMethod = "POST"
+                            }, new { id = "createForm" }))
+{
+    @Html.Label("Title");
+    <input type="text" name="title" />
+    @Html.Label("Year");
+    <input type="text" name="year" />
+
+    <button class="btn btn-primary" onclick="changed()">Create</button>
+}
+<br />
+
+<div id="results">
+    @Html.Partial("_MovieResult", @Model);
+</div>
+
+<script>
+    function changed() {
+        $("#createForm").submit();
+    }
+</script>

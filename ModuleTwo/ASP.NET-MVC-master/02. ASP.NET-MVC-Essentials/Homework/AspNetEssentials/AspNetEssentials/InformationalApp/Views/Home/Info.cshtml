@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>This is info page</p>
+
+<label for="interests">Here are my interests</label>
+<ul id="interests">
+@{
+    for (int i = 0; i < 10; i++)
+    {
+        if (i == 7)
+        {
+            <li>women</li>
+            continue;
+        }
+
+        <li>Niama da ti kaja @i</li>
+    }
+}
+</ul>

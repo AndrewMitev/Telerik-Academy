@@ -1,0 +1,33 @@
+﻿@model BitCalculator.Models.Data
+
+@{
+    var typeList = new List<SelectListItem>() { new SelectListItem() { Text = "1024", Value = "1024" }, new SelectListItem() { Text = "1000", Value = "1000" } };
+}
+
+<div>
+    <img src="http://sf.gwebtools.com/images/icons/binaryIcon.png" /> <h3 style="display:inline-block">Bit Calculator</h3>
+
+    @using (Html.BeginForm("Calculate", "Home", new { @class = "form-horizontal" }))
+    {
+        <div>
+            @Html.LabelFor(b => b.Quantity, new { @class = "control-label" })
+            @Html.TextBoxFor(b => b.Quantity, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Base)
+        </div>
+        <div>
+            @Html.LabelFor(b => b.Type, new { @class = "control-label" })
+            @Html.DropDownListFor(b => b.Type, Model.data, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Base)
+        </div>
+        <div>
+            @Html.LabelFor(b => b.Base, new { @class = "control-label" })
+            @Html.DropDownListFor(b => b.Base, typeList, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Base)
+        </div>
+
+        <br />
+        <input type="submit" value="Go" class="form-control btn-primary" />
+    }
+
+    @Html.Partial("_PopulatedData")
+</div>
