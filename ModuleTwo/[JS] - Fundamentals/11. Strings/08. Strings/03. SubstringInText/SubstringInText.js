@@ -1,32 +1,37 @@
-﻿var jsConsole;
+function solve(args){
 
-(function () {
 
-    var text = " We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days."
-    var substring = "in";
-    var count = getCountOfSubstring(substring, text);
+	 function getCountOfSubstring(substring, text) {
+	 		if (substring == '' || text == ''){
+	 			return 0;
+	 		}
 
-    jsConsole.writeLine("TEXT: " + text + '\n\n');
-    jsConsole.writeLine("Substring: " + substring) + '\n\n';
-    jsConsole.writeLine("Count: " + count);
+	 		substring = substring.toLowerCase();
+	 		text = text.toLowerCase();
 
-}());
+	 		let index = text.indexOf(substring), count = 0;
 
-function getCountOfSubstring(substring, text) {
-    var length = substring.length,
-        toLowerText = text.toLowerCase(),
-        count = 0;
+		    if (index === -1){
+		    	return 0;
+		    }
+		    else{
+		    	count = 1;
+	    		while (index !== -1){	    			
+	    			index = text.indexOf(substring, index + 1);
 
-    toLowerText = toLowerText.trim();
+	    			if (index !== -1){
+	    				count += 1;
+	    			}
+	    		}
 
-    for (var i = 0; i < toLowerText.length; i++) {
-        if (toLowerText[i] === substring[0]) {
-            var substringFromText = toLowerText.substr(i, length);
-            if (substringFromText === substring) {
-                count++;
-            }
-        }
-    }
+	    		return count;
+		    }
+	}
 
-    return count;
+    console.log(getCountOfSubstring(args[0], args[1]));
 }
+
+solve([
+    'in',
+    'We are living in an yellow submarine. We don\'t have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.'
+]);
